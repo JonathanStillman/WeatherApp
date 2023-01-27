@@ -5,9 +5,12 @@ Creating a Weather Application using SwiftUI. This application will give the use
 
 ## Examples
 
-HomeScreen                 |  Current Weather
+Home Screen                |  Current Weather
 :-------------------------:|:-------------------------:
 ![Example1](https://user-images.githubusercontent.com/68572893/215206803-4bde8285-0439-44f9-bb6b-05774eb08cd5.png) | ![Example2](https://user-images.githubusercontent.com/68572893/215206884-c3d3d893-955e-4c3b-b09f-83358a2e4ec6.png)
+
+## Video Example
+https://user-images.githubusercontent.com/68572893/215208228-260010db-b0ba-4987-a0ef-7e3acb94f4f9.mp4
 
 ## Technologies Used
 SwiftUI
